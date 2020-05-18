@@ -6,8 +6,6 @@ require 'pry'
 #  vegetable: ["carrots", "broccoli", "cucumbers"],
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
-# }
-groceries.keys 
 
 
 def get_the_values(groceries)
